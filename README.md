@@ -1,6 +1,13 @@
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Haroon+Ahmad;Cloud+%7C+DevOps+%7C+AI+%7C+Cybersecurity;Building+Resilient+Digital+Infrastructure;Open+Source+Innovator" alt="Typing SVG" />
+
+<br/>
+
 # 👋 Hi, I'm Haroon Ahmad | Cloud | DevOps | AI | Cybersecurity
 
-#### *Profile updated on: October 19, 2025*
+#### *Profile updated on: 1 January, 2025*
 
 ---
 
