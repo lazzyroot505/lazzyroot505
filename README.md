@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B+I'm+Haroon+Ahmad;Cloud+%7C+DevOps+%7C+AI+%7C+Cybersecurity;Building+Resilient+Digital+Infrastructure;Open+Source+Innovator" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&random=false&width=800&lines=Hey+%F0%9F%91%8B+I'm+Haroon+Ahmad;Cloud+%7C+DevOps+%7C+AI+%7C+Cybersecurity;Building+Resilient+Digital+Infrastructure;Open+Source+Innovator" alt="Typing SVG" />
 
 <br/>
 
-# 👋 Hi, I'm Haroon Ahmad | Cloud | DevOps | AI | Cybersecurity
+# <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="120" />👋 Hi, I'm Haroon Ahmad | Cloud | DevOps | AI | Cybersecurity
 
 #### *Profile updated on: 1 January, 2025*
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
 
 ## 🚀 About Me
 
@@ -159,6 +159,8 @@ Cloud, DevOps, Cybersecurity, Python, Bash, Docker, Kubernetes, Terraform, Git, 
 - 💼 Remote Jobs | Consulting | Training | Speaker Engagements
 - 📈 AI Ops | Security Automation | Cloud Migrations | AI Cloud Infrastructure
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
 
 ---
 
@@ -170,9 +172,9 @@ Cloud Expert, DevOps Engineer, AI Ops, Cybersecurity Specialist, Python Develope
 
 ## 📫 Contact Me
 
-| 🌐 Social/Repo        | 📮 Contact                     |
-|----------------------|-------------------------------|
-| [LinkedIn](https://www.linkedin.com/in/info-haroon)   | Email: iharooninfo@gmail.com       |                                 
+| 🌐 Social/Repo        |
+|----------------------|
+| <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">[LinkedIn](https://www.linkedin.com/in/info-haroon)
 
 ---
 
