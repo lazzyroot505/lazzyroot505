@@ -57,11 +57,11 @@ Cloud, DevOps, Cybersecurity, Python, Bash, Docker, Kubernetes, Terraform, Git, 
 
 ### 🦾 GitHub Metrics + Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourgithubusername&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourgithubusername&theme=github-compact)
-![Profile Views](https://komarev.com/ghpvc/?username=yourgithubusername&color=blueviolet)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazzyroot505&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lazzyroot505&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazzyroot505&layout=compact&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=lazzyroot505&theme=github-compact)
+![Profile Views](https://komarev.com/ghpvc/?username=lazzyroot505&color=blueviolet)
 
 ---
 
@@ -139,7 +139,8 @@ Cloud, DevOps, Cybersecurity, Python, Bash, Docker, Kubernetes, Terraform, Git, 
 ## 📣 Open For Collaboration & Freelance
 
 - 💼 Remote Jobs | Consulting | Training | Speaker Engagements
-- 📈 AI Ops | Security Automation | Cloud Migrations
+- 📈 AI Ops | Security Automation | Cloud Migrations | AI Cloud Infrastructure
+
 
 ---
 
@@ -153,9 +154,7 @@ Cloud Expert, DevOps Engineer, AI Ops, Cybersecurity Specialist, Python Develope
 
 | 🌐 Social/Repo        | 📮 Contact                     |
 |----------------------|-------------------------------|
-| [LinkedIn](https://www.linkedin.com/in/yourlinkedin)   | Email: haroonahmad@yourmail.com       |
-| [Blog](https://your-blog-link)                        | [Portfolio](https://your-portfolio.com)  |
-| [Twitter](https://twitter.com/yourhandle)             | Discord: your-discord-name            |
+| [LinkedIn](https://www.linkedin.com/in/info-haroon)   | Email: iharooninfo@gmail.com       |                                 
 
 ---
 
