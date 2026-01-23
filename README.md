@@ -73,6 +73,25 @@ Cloud, DevOps, Cybersecurity, Python, Bash, Docker, Kubernetes, Terraform, Git, 
 
 ---
 
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center">
+  <img height="400" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  />
+</div>
+
+###
+
+
 ## 🛠️ Technical Toolkit (Stack Details)
 
 - **Cloud:** AWS (EC2, S3), GCP (Compute, PubSub), Azure (VMs, Security Center)
