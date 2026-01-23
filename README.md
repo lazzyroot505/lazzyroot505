@@ -119,10 +119,9 @@ Cloud, DevOps, Cybersecurity, Python, Bash, Docker, Kubernetes, Terraform, Git, 
 ---
 
 ## 🕹️ Fun Facts & Personal Side
-
-- 🏔️ I love hiking and believe every bug is a mountain waiting to be climbed!
-- 🎸 Guitar hobbyist, rhythm in code and music.
-- 🎮 Retro games lover—always up for “Mario” after a hard day.
+- 🧠 Passionate about writing clean, scalable, and maintainable code
+- 🤝 Enjoy collaborating on meaningful projects that solve real-world problems
+- 🚀 Always learning, improving, and shipping better solutions
 
 ---
 
@@ -132,7 +131,7 @@ Cloud, DevOps, Cybersecurity, Python, Bash, Docker, Kubernetes, Terraform, Git, 
 > _– CTO, Global Cloud Group_
 
 > “His dashboards and automation scripts have elevated our monitoring to the next level.”
-> _– Head, FinTech Security Solutions_
+> _– Sr Engineer, FinTech Security Solutions_
 
 ---
 
