@@ -13,24 +13,23 @@
 
 # 👋 About Me
 
-I'm a Cloud & AIOps Engineer with 4+ years of focused experience in cybersecurity, cloud infrastructure, and intelligent automation — building systems that are not just scalable, but secure by default and observable by design.
+I'm a **Cloud & AIOps Engineer** with **4+ years of focused experience in cybersecurity, cloud infrastructure, and intelligent automation** — building systems that are not just **scalable**, but **secure by default** and **observable by design**.
 
-Since 2021, I've immersed myself in the evolving landscape of cyber defense, starting with foundational security principles and rapidly advancing into offensive/defensive operations, cloud hardening, and AI-driven threat detection. My journey began with hands-on penetration testing, vulnerability assessments (VAPT), and compliance frameworks (ISO 27001, PCI DSS), which quickly evolved into full-stack security automation across hybrid cloud environments.
+Since **2021**, I've immersed myself in the evolving landscape of **cyber defense**, starting with **foundational security principles** and rapidly advancing into **offensive/defensive operations**, **cloud hardening**, and **AI-driven threat detection**. My journey began with hands-on **penetration testing**, **Vulnerability Assessment & Penetration Testing (VAPT)**, and **compliance frameworks (ISO 27001, PCI DSS)**, which quickly evolved into **full-stack security automation** across **hybrid cloud environments**.
 
-Today, I operate at the convergence of DevSecOps, AIOps, and Purple Team methodologies — where infrastructure is codified, threats are hunted proactively, and AI models are deployed with the same rigor as production services. I architect and manage secure, resilient platforms on AWS, Azure, and GCP, leveraging Terraform, Ansible, and Kubernetes to enforce consistency, while integrating SIEM ecosystems like Wazuh, Splunk, and ELK for real-time visibility and response.
+Today, I operate at the convergence of **DevSecOps**, **AIOps**, and **Purple Team methodologies** — where **infrastructure is codified**, **threats are hunted proactively**, and **AI models are deployed with production-grade rigor**. I architect and manage **secure, resilient platforms** on **AWS, Azure, and GCP**, leveraging **Terraform**, **Ansible**, and **Kubernetes** to enforce consistency, while integrating **SIEM ecosystems** like **Wazuh**, **Splunk**, and **ELK** for **real-time visibility and automated response**.
 
-My work spans both Red and Blue domains:  
-- On the offensive side, I conduct web/mobile app pentesting using OWASP WSTG, automate reconnaissance with Python + Selenium, and simulate advanced threats to validate defenses.  
-- On the defensive front, I build SOC-ready monitoring stacks with Zabbix, Nagios, and Sensu, implement CIS controls, and harden containerized workloads using Kubernetes security policies and runtime protection.
+My work spans both **Red and Blue domains**:  
+- On the **offensive side**, I conduct **web/mobile app pentesting** using **OWASP WSTG**, automate reconnaissance with **Python + Selenium**, and simulate **advanced persistent threats (APTs)** to validate defenses.  
+- On the **defensive front**, I build **SOC-ready monitoring stacks** with **Zabbix**, **Nagios**, and **Sensu**, implement **CIS Controls**, and harden **containerized workloads** using **Kubernetes security policies** and **runtime protection**.
 
-A key pillar of my practice is AIOps integration: I develop and operationalize machine learning pipelines (TensorFlow/PyTorch) within CI/CD workflows, enabling predictive analytics for log anomaly detection, incident triage, and automated remediation. This bridges the gap between data science and infrastructure — turning raw telemetry into actionable intelligence.
+A key pillar of my practice is **AIOps integration**: I develop and operationalize **machine learning pipelines (TensorFlow/PyTorch)** within **CI/CD workflows**, enabling **predictive analytics** for **log anomaly detection**, **incident triage**, and **automated remediation**. This bridges the gap between **data science** and **infrastructure engineering** — turning raw telemetry into **actionable intelligence**.
 
-I’m currently deepening my expertise through a structured, EduQual-accredited progression — from Diploma in Cloud Cyber Security (Level 3) to the capstone Diploma in AIOps (Level 6) — a pathway academically benchmarked to a UK Bachelor’s degree.
+I’m currently deepening my expertise through a structured, **EduQual-accredited progression** — from **Diploma in Cloud Cyber Security (Level 3)** to the capstone **Diploma in AIOps (Level 6)** — a pathway **academically benchmarked to a UK Bachelor’s degree (RQF Level 6)**.
 
-Based in Pakistan, I collaborate daily with global remote teams, contributing to open-source tooling, automating cloud migrations, and strengthening cyber resilience for businesses worldwide. I believe in transparency, automation, and continuous learning — and I document much of my journey publicly to empower others.
+Based in **Pakistan**, I collaborate daily with **global remote teams**, contributing to **open-source tooling**, automating **cloud migrations**, and strengthening **cyber resilience** for businesses worldwide. I believe in **transparency**, **infrastructure-as-code**, and **continuous learning** — and I document much of my journey publicly to empower others.
 
 > **Philosophy**: *"If it’s not automated, it’s technical debt. If it’s not monitored, it’s a blind spot. If it’s not secure, it’s broken."*
-
 ---
 
 ## 🏅 Badges & Tech Stack
