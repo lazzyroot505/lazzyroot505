@@ -99,23 +99,27 @@ Based in **Pakistan**, I collaborate daily with **global remote teams**, contrib
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 ---
 
-## 📈 Live AIOps & Security Dashboards
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lazzyroot505&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lazzyroot505&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lazzyroot505&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🦾 GitHub Metrics + Activity
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=lazzyroot505&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazzyroot505&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lazzyroot505&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazzyroot505&layout=compact&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=lazzyroot505&theme=github-compact)
-![Profile Views](https://komarev.com/ghpvc/?username=lazzyroot505&color=blueviolet)
 
 ---
 
+
 ### 🔐 Cybersecurity Threat & Attack Landscape
 
-[![Kaspersky Threat Map](https://cybermap.kaspersky.com/en/widget/dynamic/dark)](https://cybermap.kaspersky.com)
-[![Checkpoint FireEye Threatmap](https://threatmap.checkpoint.com/ThreatPortal/livemap.png)](https://threatmap.checkpoint.com)
-- **Live FireEye Attack Heatmap:** [ThreatMap](https://threatmap.fireeye.com/)
+| Tool | Dashboard |
+|------|-----------|
+| 🛡️ **Kaspersky Threat Map** | [Live Global Threat Map](https://cybermap.kaspersky.com/) |
+| 👁️ **Checkpoint FireEye ThreatMap** | [FireEye Threat Intelligence](https://www.checkpoint.com/cyber-hub/threat-intelligence/) |
+| 🔥 **Live FireEye Attack Heatmap** | [ThreatMap (by Mandiant)](https://www.mandiant.com/resources/blog/fireeye-threat-map) |
+
+> 💡 *Note: These are live external dashboards — click to explore real-time global attack trends.*
 
 ---
 
