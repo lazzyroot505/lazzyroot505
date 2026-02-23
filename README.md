@@ -184,7 +184,7 @@ Based in **Pakistan**, I collaborate daily with **global remote teams**, contrib
 
 - 🏆 Contributor:  [Awesome-Cyber-Security](https://github.com/fabionoth/awesome-cyber-security)  
 - 💬 Speaker:  Security, DevOps, Cloud Summits  
-- 📝 Blogger: [My Blog](https://your-blog-link)  
+- 📝 Blogger: My Blog *(link coming soon)*  
 - 🤝 Mentor: Cloud/DevOps for freshers and peers
 
 ---
