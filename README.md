@@ -1,15 +1,21 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2F80ED&center=true&vCenter=true&random=false&width=800&lines=Hey+%F0%9F%91%8B+I'm+Haroon+Ahmad;Cloud+%7C+DevOps+%7C+AI+%7C+Cybersecurity;Building+Resilient+Digital+Infrastructure;Open+Source+Innovator" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Haroon%20Ahmad&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Cloud%20%7C%20DevOps%20%7C%20AIOps%20%7C%20Cybersecurity&descAlignY=62&descAlign=50" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=2F80ED&center=true&vCenter=true&random=false&width=900&lines=Hey+%F0%9F%91%8B+I'm+Haroon+Ahmad;Cloud+%26+AIOps+Engineer+%7C+4%2B+Years+Experience;DevSecOps+%7C+Purple+Teamer+%7C+AI+Builder;Open+Source+Innovator+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-# <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="120" />👋 Hi, I'm Haroon Ahmad | Cloud | DevOps | AI | Cybersecurity
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/info-haroon)
+[![GitHub followers](https://img.shields.io/github/followers/lazzyroot505?style=for-the-badge&logo=github&label=Follow&color=181717)](https://github.com/lazzyroot505)
+[![Profile Views](https://komarev.com/ghpvc/?username=lazzyroot505&style=for-the-badge&color=2F80ED&label=PROFILE+VIEWS)](https://github.com/lazzyroot505)
 
-#### *Profile updated on: 5 Feb, 2025*
+<br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br><br>
+
+</div>
 
 # 👋 About Me
 
@@ -99,15 +105,30 @@ Based in **Pakistan**, I collaborate daily with **global remote teams**, contrib
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lazzyroot505&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lazzyroot505&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lazzyroot505&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=lazzyroot505)
+## 📊 GitHub Stats & Activity
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lazzyroot505&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazzyroot505&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=lazzyroot505&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lazzyroot505&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lazzyroot505&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
+</div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lazzyroot505&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=lazzyroot505&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</div>
 
 
 ---
@@ -125,23 +146,14 @@ Based in **Pakistan**, I collaborate daily with **global remote teams**, contrib
 
 ---
 
-###
-
-<p align="left"></p>
-
-###
 
 <div align="center">
-  <img height="400" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif"  />
+  <img height="400" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" />
 </div>
-
-###
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"  />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
 </div>
-
-###
 
 
 ## 🛠️ Technical Toolkit (Stack Details)
@@ -184,7 +196,7 @@ Based in **Pakistan**, I collaborate daily with **global remote teams**, contrib
 
 - 🏆 Contributor:  [Awesome-Cyber-Security](https://github.com/fabionoth/awesome-cyber-security)  
 - 💬 Speaker:  Security, DevOps, Cloud Summits  
-- 📝 Blogger: [My Blog](https://your-blog-link)  
+- 📝 Blogger: My Blog *(link coming soon)*  
 - 🤝 Mentor: Cloud/DevOps for freshers and peers
 
 ---
@@ -224,14 +236,19 @@ Cloud Expert, DevOps Engineer, AI Ops, Cybersecurity Specialist, Python Develope
 
 ## 📫 Contact Me
 
-| 🌐 Social/Repo        |
-|----------------------|
-| <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">[LinkedIn](https://www.linkedin.com/in/info-haroon)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/info-haroon)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lazzyroot505)
+
+</div>
 
 ---
 
 ## 🦾 Let’s Build The Future  
 > "Automate fearlessly, learn relentlessly, defend deeply, collaborate globally."
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+</div>
 
